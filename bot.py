@@ -9,7 +9,6 @@ import time
 import random
 import requests
 import json
-from mega import Mega
 from os import popen
 from bs4 import BeautifulSoup
 from aiohttp.client import ClientSession
@@ -26,7 +25,6 @@ from comfig import*
 
 proces_file = b'FILE_Dowload'
 proces_url = b'FILE_URL_Dowload'
-proces_megaurl = b'File_Mega_Down'
 Config = Config()
 m = Mega()
 
