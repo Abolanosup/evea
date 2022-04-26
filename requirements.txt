@@ -6,7 +6,6 @@ xmltodict
 pyOpenSSL
 requests
 youtube-dl
-mega.py
 telethon
 bs4
 requests
