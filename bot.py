@@ -26,7 +26,6 @@ from comfig import*
 proces_file = b'FILE_Dowload'
 proces_url = b'FILE_URL_Dowload'
 Config = Config()
-m = Mega()
 
 C=str.maketrans('1357926840NOEQRSTUVWXYZnopqrstuvwxyzABCDPFGHIJKLMabcdefghijklm','ABCDEFGHIJKLMabcdefghijklmNOPQRSTUVWXYZnopqrstuvwxyz1234567890')
 
