@@ -1,0 +1,10 @@
+BOT_TOKEN = ''
+API_ID = ''
+API_HASH = ''
+ADMIN_ID = []
+
+MOODLE_URL = ''
+MOODLE_USER = ''
+MOODLE_PASSWORD = ''
+PARTES_MB = 
+

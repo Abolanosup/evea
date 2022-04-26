@@ -1,0 +1,14 @@
+aiohttp==3.7.4.post0
+xmltodict
+python-telegram-bot
+ujson
+xmltodict
+pyOpenSSL
+requests
+youtube-dl
+mega.py
+telethon
+bs4
+requests
+lxml
+qbittorrent-api

@@ -1,0 +1,13 @@
+﻿STR_WELCOME = "Hola {}. Envíame un archivo o una URL para comenzar a descargar😎"
+STR_WAIT = "📡Preparándose para descargar..."
+STR_DESCARGADO = "Ya estoy descargando👍"
+STR_COMPLETADO = "Tarea Completada✅"
+STR_ERROR = "❌Error al subir el archivo❌😓"
+STR_IDLE = """
+Tarea terminada✅✅
+"""
+STR_COMPRIMIENDO = "📦 Comprimiendo {}..."
+STR_SUBIENDO = "⏫ Subiendo {}... \nEsto puede tardar unos minutos..."
+STR_DESCARGANDO = "⏬ Descargando: {}\nTotal📦{}\nDescargado {} - {}%"
+STR_INFO_ARCHIVO = "Nombre: {}\nTamaño: {} 😉"
+STR_UNAUTHORIZED = "¿Que haces aquí?🤨.\n👉No estás autorizado para usar este bot.\nID: {}"
